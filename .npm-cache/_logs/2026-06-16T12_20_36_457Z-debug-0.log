@@ -1,0 +1,35 @@
+0 verbose cli /usr/local/bin/node /usr/local/lib/node_modules/npm/bin/npm-cli.js
+1 info using npm@11.9.0
+2 info using node@v24.14.0
+3 silly config load:file:/usr/local/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/thien/Downloads/CHAT_ BOT _PRO/.npmrc
+5 silly config load:file:/Users/thien/.npmrc
+6 silly config load:file:/usr/local/etc/npmrc
+7 verbose title npm exec create-next-app@latest frontend --typescript --tailwind --eslint --app --src-dir --import-alias @/* --use-npm
+8 verbose argv "exec" "--yes" "--" "create-next-app@latest" "frontend" "--typescript" "--tailwind" "--eslint" "--app" "--src-dir" "--import-alias" "@/*" "--use-npm"
+9 verbose logfile logs-max:10 dir:/Users/thien/Downloads/CHAT_ BOT _PRO/.npm-cache/_logs/2026-06-16T12_20_36_457Z-
+10 verbose logfile /Users/thien/Downloads/CHAT_ BOT _PRO/.npm-cache/_logs/2026-06-16T12_20_36_457Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+13 http fetch GET 200 https://registry.npmjs.org/create-next-app 535ms (cache miss)
+14 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+15 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+16 silly idealTree buildDeps
+17 silly fetch manifest create-next-app@16.2.9
+18 silly packumentCache full:https://registry.npmjs.org/create-next-app cache-miss
+19 http fetch GET 200 https://registry.npmjs.org/create-next-app 350ms (cache miss)
+20 silly packumentCache full:https://registry.npmjs.org/create-next-app set size:undefined disposed:false
+21 silly placeDep ROOT create-next-app@16.2.9 OK for:  want: 16.2.9
+22 silly reify moves {}
+23 silly audit bulk request { 'create-next-app': [ '16.2.9' ] }
+24 http cache create-next-app@https://registry.npmjs.org/create-next-app/-/create-next-app-16.2.9.tgz 0ms (cache hit)
+25 silly tarball no local data for create-next-app@https://registry.npmjs.org/create-next-app/-/create-next-app-16.2.9.tgz. Extracting by manifest.
+26 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 263ms
+27 silly audit report {}
+28 http fetch GET 200 https://registry.npmjs.org/create-next-app/-/create-next-app-16.2.9.tgz 269ms (cache miss)
+29 verbose cwd /Users/thien/Downloads/CHAT_ BOT _PRO
+30 verbose os Darwin 23.5.0
+31 verbose node v24.14.0
+32 verbose npm  v11.9.0
+33 verbose exit 0
+34 info ok
