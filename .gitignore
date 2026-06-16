@@ -1,3 +1,8 @@
 node_modules/
 .env
 .next/
+.npm-cache/
+.vercel/
+venv/
+__pycache__/
+*.log
